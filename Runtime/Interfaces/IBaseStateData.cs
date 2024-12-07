@@ -1,3 +1,7 @@
-public interface IBaseStateData
+
+namespace BeykozEdu.FSM.Interfaces
 {
+    public interface IBaseStateData
+    {
+    }
 }

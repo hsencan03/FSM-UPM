@@ -1,4 +1,4 @@
-namespace FSM.Interfaces
+namespace BeykozEdu.FSM.Interfaces
 {
     public interface IStateMachineHandler<T> where T : IBaseStateData
     {

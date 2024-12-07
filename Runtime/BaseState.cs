@@ -1,6 +1,6 @@
 using FSM.Interfaces;
 
-namespace FSM
+namespace BeykozEdu.FSM
 {
     public abstract class BaseState<T> : IState<T> where T : IBaseStateData
     {

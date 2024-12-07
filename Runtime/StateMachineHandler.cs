@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using FSM.Interfaces;
 
-namespace FSM
+namespace BeykozEdu.FSM
 {
     public class StateMachineHandler<T> : IStateMachineHandler<T> where T : IBaseStateData
     {
