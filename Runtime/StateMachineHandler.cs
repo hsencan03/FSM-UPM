@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using FSM.Interfaces;
+using BeykozEdu.FSM.Interfaces;
 
 namespace BeykozEdu.FSM
 {
